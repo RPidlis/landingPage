@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 12px;
+  background: red;
+}
+
+.id {
+  width: 100px;
+  height: 100px;
+  border: solid 2px purple;
+}
+
+/*# sourceMappingURL=style.css.map */
